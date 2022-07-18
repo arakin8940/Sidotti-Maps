@@ -1,54 +1,7 @@
 {
-  "range": "'スポットデータ'!A1:J84",
-  "majorDimension": "ROWS",
-  "values": [
-    [
-      "タイムスタンプ",
-      "カテゴリ",
-      "画像",
-      "緯度",
-      "経度",
-      "スポット名",
-      "紹介文",
-      "Instagram",
-      "Twitter",
-      "公式サイト"
-    ],
-    [
-      "2022/05/11 14:46:34",
-      "シドッティ",
-      "https://arakin8940.github.io/Sidotti-Maps/%E7%94%BB%E5%83%8FA%E2%88%92%EF%BC%91.png",
-      "30.232478",
-      "130.537162",
-      "屋久島シドッティ記念館建設予定地",
-      "シドッティ教会の奥に記念館を建設します。",
-      "yakutsudio2020",
-      "",
-      "https://www.yakushima-sidotti-museum.com/"
-    ],
-    [
-      "",
-      "シドッティ",
-      "https://arakin8940.github.io/Sidotti-Maps/272199845_348420413798577_8235009651469260448_n.jpg",
-      "30.23246",
-      "130.537377",
-      "シドッティ記念教会（カトリック屋久島教会）",
-      "シドッティ記念教会（カトリック屋久島教会）",
-      "",
-      "",
-      "https://www.yakushima-sidotti-museum.com/"
-    ],
-    [
-      "",
-      "シドッティ",
-      "https://arakin8940.github.io/Sidotti-Maps/Scan2022-01-16_122645.jpg",
-      "30.229301",
-      "130.524646",
-      "藤兵衛との出会いの場所",
-      "ここで、シドッティと藤兵衛は出会いました",
-      "",
-      "",
-      "https://www.yakushima-sidotti-museum.com/"
-    ]
-  ]
+  "error": {
+    "code": 503,
+    "message": "The service is currently unavailable.",
+    "status": "UNAVAILABLE"
+  }
 }
